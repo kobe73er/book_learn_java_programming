@@ -1,5 +1,7 @@
-#Java编程语言探索之旅
+#Learn Java Programming From Scratch
 
-作者：Andrew Deng
-作者网站 ：http://www.andrew-deng.com
+Author：Andrew Deng
 
+Website: http://www.andrew-deng.com
+
+twitter: https://twitter.com/BeDpf
