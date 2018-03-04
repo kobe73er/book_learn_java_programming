@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b061b8fd-35a9-428e-b7d6-0b79745c6d96" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.html" afterPath="$PROJECT_DIR$/_book/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md" afterPath="$PROJECT_DIR$/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -86,8 +88,8 @@
         <entry file="file://$PROJECT_DIR$/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="293">
-                <caret line="29" column="108" lean-forward="false" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
+              <first_editor relative-caret-position="301">
+                <caret line="29" column="113" lean-forward="false" selection-start-line="29" selection-start-column="113" selection-end-line="29" selection-end-column="113" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -355,12 +357,12 @@
       <workItem from="1519882454041" duration="10882000" />
       <workItem from="1519971126865" duration="7317000" />
       <workItem from="1520060332640" duration="691000" />
-      <workItem from="1520140124461" duration="13593000" />
+      <workItem from="1520140124461" duration="13600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37693000" />
+    <option name="totallyTimeSpent" value="37700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1366" y="92" width="1366" height="745" extended-state="6" />
@@ -817,8 +819,8 @@
     <entry file="file://$PROJECT_DIR$/book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="293">
-            <caret line="29" column="108" lean-forward="false" selection-start-line="29" selection-start-column="108" selection-end-line="29" selection-end-column="108" />
+          <first_editor relative-caret-position="301">
+            <caret line="29" column="113" lean-forward="false" selection-start-line="29" selection-start-column="113" selection-end-line="29" selection-end-column="113" />
             <folding />
           </first_editor>
           <second_editor />
