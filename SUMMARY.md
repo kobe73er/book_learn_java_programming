@@ -7,4 +7,5 @@
     * [1.4_Creating Compiling and Executing Java Program](book/chapter-1/1.4_creating_compiling_executing_java_program.md)
     * [1.5_Programming Style And Documentation](book/chapter-1/1.5_programming_style_and_documentation.md)
     * [1.6_Programming Errors](book/chapter-1/1.6_programming_errors.md)
+    * [1.7_Develop Prgram Using Intellij IDE](book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md)
  
