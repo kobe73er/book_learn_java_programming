@@ -5,4 +5,6 @@
     * [1.2_Java Specification,API,JDK,ID](book/chapter-1/1.2_java_language_specification.md)
     * [1.3_Hello World Java Program](book/chapter-1/1.3_helloworld_java_program.md)
     * [1.4_Creating Compiling and Executing Java Program](book/chapter-1/1.4_creating_compiling_executing_java_program.md)
+    * [1.5_Programming Style And Documentation](book/chapter-1/1.5_programming_style_and_documentation.md)
+    * [1.6_Programming Errors](book/chapter-1/1.6_programming_errors.md)
  
