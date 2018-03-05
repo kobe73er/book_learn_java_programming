@@ -2,10 +2,14 @@
 * [AboutAuthor](book/chapter-0/aboutAuthor.md)
 * [Chpater 1](book/chapter-1/overview.md)
     * [1.1_Java Introduction](book/chapter-1/1.1_intrudction_to_java_programming.md)
-    * [1.2_Java Specification,API,JDK,ID](book/chapter-1/1.2_java_language_specification.md)
+    * [1.2_Java Specification,API,JRE,JDK,ID](book/chapter-1/1.2_java_language_specification.md)
     * [1.3_Hello World Java Program](book/chapter-1/1.3_helloworld_java_program.md)
     * [1.4_Creating Compiling and Executing Java Program](book/chapter-1/1.4_creating_compiling_executing_java_program.md)
     * [1.5_Programming Style And Documentation](book/chapter-1/1.5_programming_style_and_documentation.md)
     * [1.6_Programming Errors](book/chapter-1/1.6_programming_errors.md)
     * [1.7_Develop Prgram Using Intellij IDE](book/chapter-1/1.7_developing_java_program_using_Intellij_ide.md)
- 
+    * [Summary](book/chapter-1/chapter1_summary.md)
+* [Chpater 2](book/chapter-2/overview.md)
+    * [2.1_Introduction](book/chapter-2/2.1_intrudction.md)
+    * [2.2_Problem1 Compute Rectangle Area](book/chapter-2/2.2_problem1_compute_rectangle_area.md)
+
